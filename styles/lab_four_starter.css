@@ -6,12 +6,14 @@
   font-style: normal;
   color: #00f777;
   text-decoration: none;
+
 }
 
 .nav-links a {
   color: #47e6ff;
   text-decoration: none;
   font-size: 16px;
+
 }
 
 .nav-links {
@@ -20,6 +22,7 @@
   margin: 0;
   padding: 0;
   transition: all 0.7s ease-in-out;
+  z-index: 2;
 }
 
 .nav-links li {
